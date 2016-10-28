@@ -1,1 +1,1 @@
-!Captive Portal Checker
+Captive Portal Checker
